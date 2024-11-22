@@ -16,12 +16,14 @@ A key lesson from the 2019 Capital One breach, caused by a misconfigured WAF tha
 
 ## AWS Services Used
 * VPC (Virtual Private Cloud)
+* Availability Zones
 * Public Subnets
 * Private Subnets
-* Databases
-* Web Servers
+* Amazon RDS
 * Application Load Balancers
 * Internet Gateway
+* AWS Elastic Compute Cloud (EC2)
+* AWS Web Application Firewall
 * CloudWatch
 * EventBridge
 ## Project Objective
