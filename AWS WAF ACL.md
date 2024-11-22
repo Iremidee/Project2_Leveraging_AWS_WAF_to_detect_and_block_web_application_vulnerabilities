@@ -1,3 +1,0 @@
-# AWS WAF
-
-## WAF ACL
