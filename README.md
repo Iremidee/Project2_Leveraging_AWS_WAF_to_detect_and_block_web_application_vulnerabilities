@@ -2,6 +2,7 @@
 ## Project Overview
 Web applications are increasingly becoming targets for cyberattacks, making the need for stronger security measures paramount. Vulnerabilities such as SQL injection, Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF) and Server-Side Request Forgery (SSRF) can exploit weaknesses in web applications, leading to data breaches, service disruptions, and financial losses.
 
+
 Amazon Web Services (AWS) Web Application Firewall (WAF) is a cloud-native service designed to protect web applications from these common vulnerabilities by allowing organisations to create customizable rules to monitor, detect, and block potentially malicious requests. This project aims to explore how AWS WAF can be leveraged to detect and block these threats effectively.
 ## Scenario
 XYZ E-commerce, a growing online marketplace, faced increasing security risks as its user base expanded. Before implementing AWS WAF, the platform was vulnerable to common web-based attacks like SQL Injection (SQLi), Cross-Site Scripting (XSS), and Server-Side Request Forgery (SSRF), putting customer data and service reliability at risk. Without AWS WAF, the platform couldn’t efficiently detect or block malicious traffic, leaving it exposed to potential data breaches, reputational damage, and loss of customer trust.
